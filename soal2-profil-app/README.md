@@ -1,4 +1,4 @@
-# Aplikasi Profil Mahasiswa Flutter
+git log --oneline -5# Aplikasi Profil Mahasiswa Flutter
 
 Aplikasi Profil Mahasiswa merupakan proyek Ujian Tengah Semester (UTS) mata kuliah Pemrograman Mobile yang dibuat menggunakan Flutter dan bahasa pemrograman Dart.
 
@@ -82,19 +82,19 @@ Soal2_UTS/
 
 Halaman utama yang menampilkan foto, nama, bio, email, nomor telepon, dan alamat mahasiswa.
 
-![Halaman Profil](screenshots/profil.png)
+![Halaman Profil](C:\Users\Surya\Pictures\Screenshots\Tampilan_Profil.png)
 
 ### B. Halaman Edit Profil
 
 Halaman untuk mengubah informasi profil mahasiswa melalui formulir edit profil.
 
-![Halaman Edit Profil](screenshots/edit-profil.png)
+![Halaman Edit Profil](C:\Users\Surya\Pictures\Screenshots\edit_profil.png)
 
 ### C. Halaman Tentang Aplikasi
 
 Halaman yang menampilkan informasi aplikasi, versi aplikasi, dan nama pembuat.
 
-![Halaman Tentang Aplikasi](screenshots/tentang-aplikasi.png)
+![Halaman Tentang Aplikasi](C:\Users\Surya\Pictures\Screenshots\tentang_aplikasi.png)
 
 ## 6. Cara Menjalankan Aplikasi
 
