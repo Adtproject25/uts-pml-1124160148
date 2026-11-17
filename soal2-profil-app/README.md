@@ -5,7 +5,7 @@ Aplikasi Profil Mahasiswa merupakan proyek Ujian Tengah Semester (UTS) mata kuli
 ## 1. Identitas Mahasiswa
 - **Nama:** Aditiya Surya Putra
 - **NIM:** 1124160148
-- **Kelas:** TI 24 M
+- **Kelas:** TI SE 24 M
 - **Program Studi:** Teknik Informatika
 - **Kampus:** Global Institute
 - **Mata Kuliah:** Pemrograman Mobile
